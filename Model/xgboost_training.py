@@ -68,4 +68,4 @@ plt.ylabel('Feature')
 plt.tight_layout()
 plt.show()
 
-joblib.dump(model, "xgboost.joblib")
+joblib.dump(model, "C:\Users\yanna\OneDrive\Documents\School Activities\Thesis\GeoSentry-IoT-based-Landslide-Monitoring-System\Model\xgboost.joblib")
